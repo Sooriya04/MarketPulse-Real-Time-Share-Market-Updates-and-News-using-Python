@@ -58,12 +58,12 @@ pip install twilio
 <p>Enter your Twilio phone number in the <b>from_</b> field, and enter the mobile number you used to sign up for your Twilio account in the <b>to</b> field in the main.py</p>
 
 ## Stock API KEY
-<p>Go to the <a href="https://bit.ly/3WVqhTW">alphavantage</a>enter your details and claim your api key</p>
-<p>Enter the api key in <b>API_KEY</b>in the empty strings</p>
+<p>Go to the <a href="https://bit.ly/3WVqhTW"> alphavantage</a>enter your details and claim your api key</p>
+<p>Enter the api key in <b>API_KEY</b> in the empty strings</p>
 
 ## NEWS API KEY
-<p>Go to the <a href="https://bit.ly/3SJ3tnE">NEWS API</a>enter your details and claim your api key</p>
-<p>Enter the api key in <b>API_KEY</b>in the empty strings</p>
+<p>Go to the <a href="https://bit.ly/3SJ3tnE"> NEWS API</a>enter your details and claim your api key</p>
+<p>Enter the api key in <b>API_KEY</b> in the empty strings</p>
 
 ## If you want to change the company you can change it
 ### Clone the Repository
