@@ -57,11 +57,11 @@ pip install twilio
 <p>Enter account sid and token in <b>account_sid</b> and <b>auth_token</b> inside the empty string in the main.py</p>
 <p>Enter your Twilio phone number in the <b>from_</b> field, and enter the mobile number you used to sign up for your Twilio account in the <b>to</b> field in the main.py</p>
 
-##Stock API KEY
+## Stock API KEY
 <p>Go to the <a href="https://bit.ly/3WVqhTW">alphavantage</a>enter your details and claim your api key</p>
 <p>Enter the api key in <b>API_KEY</b>in the empty strings</p>
 
-##NEWS API KEY
+## NEWS API KEY
 <p>Go to the <a href="https://bit.ly/3SJ3tnE">NEWS API</a>enter your details and claim your api key</p>
 <p>Enter the api key in <b>API_KEY</b>in the empty strings</p>
 
