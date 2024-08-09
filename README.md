@@ -68,9 +68,11 @@ pip install twilio
 ## If you want to change the company you can change it
 ### Clone the Repository
 <p>open the terminal on windows or linux and paste this code</p>
+
 ```bash
 git clone https://github.com/Sooriya04/MarketPulse-Real-Time-Share-Market-Updates-and-News-using-Python.git
 ```
+
 ### To Run the file
 
 ```bash
